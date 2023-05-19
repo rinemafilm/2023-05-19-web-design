@@ -92,6 +92,7 @@ nav ul a{
     height: 200px;
     display: flex;
     padding: 10px 0;
+    gap: 10px;
 }
 
 .tab{flex: 1;
@@ -120,7 +121,7 @@ nav ul a{
 
 .tab_contents {
     padding: 10px;
-    width: 400px;
+    width: 393px;
     height: 136px;
     background: gainsboro;
     position: absolute;
@@ -139,7 +140,7 @@ nav ul a{
 
 .gallery {
     display: none;
-    width: 400px;
+    width: 393px;
     height: 115px;
     gap: 10px;
 }
